@@ -1,0 +1,12 @@
+baseURL = 'http://billyasselin.github.io/'
+languageCode = 'en-us'
+title = "Billy's Blog"
+theme = "anatole"
+enableEmoji = true
+
+
+[params]
+title = "An Engineer with a Blog"
+author = "Billy A."
+description = "Automated blogging from a github bot"
+dateFormat = "Mon, Jan 2, 2006"
